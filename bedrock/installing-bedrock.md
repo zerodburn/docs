@@ -25,7 +25,7 @@ publish_to_discourse:
 
 1. Clone the git repo - `git clone https://github.com/roots/bedrock.git`
 2. Run `composer install`
-3. Copy `.env.example` to `.env` and update environment variables:
+3. Rename `.env.example` to `.env` and update environment variables:
   * `DB_NAME` - Database name
   * `DB_USER` - Database user
   * `DB_PASSWORD` - Database password
